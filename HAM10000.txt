@@ -1,2 +1,0 @@
-#HAM10000 skin dataset is available on
-https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000
