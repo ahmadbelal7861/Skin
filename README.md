@@ -6,3 +6,6 @@ The HAM10000 dataset used for model training can be downloaded from https://www.
 
 ## base_model
 ![base_model](https://user-images.githubusercontent.com/28829995/138201252-64f4deea-bfeb-4f2e-9f09-47b4b9c94a4b.png)
+
+## model architecture
+![architecture](https://user-images.githubusercontent.com/28829995/138201481-089b1b1c-1543-4f94-91cb-eb0abd7ce507.jpg)
