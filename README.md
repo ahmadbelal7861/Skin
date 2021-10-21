@@ -1,2 +1,5 @@
-Skin Disease Classification
-The purpose of this repository is to explore Skin disease classification methods using ensemble model.
+## Skin Disease Classification
+Ensemble models of RNN & CNN for Skin Disease Classification are discussed here.
+
+## Dataset:
+The HAM10000 dataset used for model training can be downloaded from https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000.
